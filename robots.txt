@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://getenergygas.github.io/StartGeorgiaPower/sitemap.xml
+Sitemap: https://getenergygas.github.io/Atmosgasservice/sitemap.xml
