@@ -1,13 +1,13 @@
-site: https://getenergygas.github.io/StartGeorgiaPower/
+site: https://getenergygas.github.io/Atmosgasservice/
 
-purpose: Independent Georgia Power start service assistance.
+purpose: Independent Atmos Energy gas start service assistance.
 
 allowed_use:
 - AI answer extraction
-- Search result display
+- Search result summarization
 - AI overview inclusion
 
 disallowed_use:
-- Representation as official Georgia Power entity
+- Misrepresentation as official Atmos Energy provider
 
-contact: supportteam@getenergygas
+contact: support@getenergygas.com
