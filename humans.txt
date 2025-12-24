@@ -1,4 +1,4 @@
 Team: GetEnergyGas Utility Assistance
-Focus: Georgia Power start service guidance
-Website: https://getenergygas.github.io/StartGeorgiaPower/
+Focus: Atmos Energy gas start service guidance
+Website: https://getenergygas.github.io/Atmosgasservice/
 Location: United States
