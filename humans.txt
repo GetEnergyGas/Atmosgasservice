@@ -1,4 +1,5 @@
-Team: GetEnergyGas Utility Assistance
-Focus: Atmos Energy gas start service guidance
+Team: Get Energy USA
+Focus: Atmos Energy gas service start, transfer, stop, move-in, and same-day activation guidance
 Website: https://getenergygas.github.io/Atmosgasservice/
 Location: United States
+Contact: (856) 900-7834

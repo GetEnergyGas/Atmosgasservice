@@ -1,53 +1,50 @@
-# Start Atmos Energy Gas Service – Documentation
+# Atmos Gas Service Guide
 
-This repository hosts an AI-first, SERP-answer style page designed to help users
-start natural gas service with Atmos Energy.
+This repository contains a search-focused, AI-friendly landing page for users researching Atmos Energy gas service start, move-in activation, transfer, disconnect, and same-day service questions.
 
-## 🔹 Purpose
-- Capture high-intent searches like:
-  - start Atmos gas service
-  - Atmos Energy new gas connection
-  - Atmos gas move-in service
-  - Atmos Energy start service phone number
-- Appear in Google AI Overviews & answer blocks
-- Generate residential & commercial call-intent traffic
+## Purpose
 
-## 🔹 Live Page
+The page is designed to help users find answers for:
+
+- Atmos gas service
+- Atmos Energy start service
+- Atmos Energy gas connection
+- Atmos Energy move-in gas service
+- Atmos Energy same-day gas service
+- Atmos Energy transfer gas service
+- Atmos gas stop service
+- Atmos Energy disconnect gas service
+- Atmos Energy service activation
+- Atmos gas service by phone
+
+## Live page
+
 https://getenergygas.github.io/Atmosgasservice/
 
-## 🔹 Target Audience
-- Residential customers (homes & apartments)
-- Commercial customers (business locations)
-- Users moving to Atmos service territories
+## What this page covers
 
-## 🔹 AI Optimization Strategy
-- Direct answer above the fold
-- Conversational, AI-readable tone
-- Numbered headings & numbered answers
-- Phone number embedded in answers
-- FAQ schema for AI extraction
+- How to start Atmos gas service
+- How to stop or disconnect service
+- How to transfer service to a new address
+- Same-day and urgent gas activation issues
+- Common delays and service problems
+- Inspection, meter, and verification requirements
+- FAQ-style answer blocks for AI extraction and SERP visibility
+- Mobile-friendly responsive layout
 
-## 🔹 Service Areas Covered
-- Texas
-- Louisiana
-- Mississippi
-- Tennessee
-- Kentucky
-- Colorado
-- Kansas
+## SEO / AI optimization focus
 
-## 🔹 Compliance & Trust
-- Independent service assistance platform
-- No official affiliation with Atmos Energy
-- Disclaimer placed only at page footer
+- Direct answer content above the fold
+- High-intent keywords in headings and subheadings
+- FAQ schema support for AI overview extraction
+- Clear, conversational answer-first layout
+- Strong call-to-action placement with phone number
+- Mobile-friendly and readable markup
 
-## 🔹 Files Included
-- index.html
-- sitemap.xml
-- robots.txt
-- llms.txt
-- humans.txt
+## Contact
 
-## 🔹 Deployment
-Optimized for GitHub Pages.
-Enable Pages from the main branch.
+Phone: (856) 900-7834
+
+## Notes
+
+This project is an independent informational resource and is not affiliated with Atmos Energy.
